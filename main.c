@@ -2,4 +2,5 @@
 
 int main(){
     printf("nice");
+    return 0;
 }
